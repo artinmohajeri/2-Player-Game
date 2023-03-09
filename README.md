@@ -1,6 +1,6 @@
 # 2 Player Game
 ## This project is an academic project sugested from TIT(Tehran Institute of Thechnology).
-###this is my first game which ] have made it with python.
+### this is my first game which ] have made it with python.
 
 
 the right player moves with the arrow keys on the bottom of the keybord and it shoots bullets by right ctrl.
